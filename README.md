@@ -149,18 +149,6 @@ A digital commerce and operational management solution for beauty, skincare and 
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jonasjohn-dev&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasjohn-dev&layout=compact&theme=github_dark&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jonasjohn-dev&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
 
 ## 🌍 Let's Connect
 
